@@ -1,0 +1,1 @@
+const paymentTest = "Test eiei"
